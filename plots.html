@@ -32,11 +32,15 @@
       <p>This browser does not support PDFs.</p>
     </object>
       <div id="pdf-info">
-        <div class="prev"><a href="javascript:void(0);" id="previous"><-- Prev --></a></div>
+        <div class="prev"><a href="plots.html">Plots</a> | <a href="magic.html">Magic Sheets</a> | <a href="">Other</a></div>
         <div class="content"><h1 id="plot-title"></h1>
         <h2 id="plot-subtitle"></h2>
         <p id="plot-description"></p></div>
-        <div class="next"><a href="javascript:void(0);" id="next"><-- Next --></a></div>
+        <div class="next">
+          <a href="javascript:void(0);" id="previous"><-- Prev</a>
+          <span id="current-pg">Page Number</span> / 
+          <span id="total-pg">Total Pages</span>
+          <a href="javascript:void(0);" id="next">Next --></a></div>
       </div>
     </div>
   </main>
@@ -44,6 +48,6 @@
   <footer class="bg-light"></footer>
 
 </body>
-<script type="text/javascript" src="assets/js/paperwork.js"></script>
 <script type="text/javascript" src="assets/js/plots.js"></script>
+<script type="text/javascript" src="assets/js/helper.js"></script>
 </html>

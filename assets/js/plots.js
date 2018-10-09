@@ -1,53 +1,34 @@
-var current = 0;
-
-function changePDF(path) {
-  var pdfViewer = document.getElementById("pdf-embed");
-  pdfViewer.setAttribute(attr, path);
-}
-
-function setTitle(title) {
-  document.getElementById("plot-title").innerText = title;
-}
-
-function setSubtitle(subtitle) {
-  document.getElementById("plot-subtitle").innerText = subtitle;
-}
-
-function setDescription(description) {
-  document.getElementById("plot-description").innerText = description;
-}
-
-function setAll(plot) {
-  var title = plot["title"];
-  var subtitle = plot["subtitle"];
-  var path = plot["path"];
-  var description = plot["description"];
-
-  setTitle(title);
-  setSubtitle(subtitle);
-  setDescription(description);
-  changePDF(path);
-}
-
-document.getElementById("next").addEventListener("click", function(){
-  current += 1;
-  if (current < 0) {
-    current = 0;
+var data = [
+  {
+    "title": "If We Were Birds",
+    "subtitle": "Designed by me",
+    "path":"assets/files/Plots/Draftings/If We Were Birds.pdf",
+    "description": "This plot was absolutely designed by me"
+  },
+  {
+    "title": "Aida",
+    "subtitle": "Designed by me",
+    "path":"assets/files/Plots/Draftings/Aida Light Plot.pdf",
+    "description": "This plot was absolutely designed by me"
+  },
+  {
+    "title": "Lunar Gala",
+    "subtitle": "Designed by me",
+    "path":"assets/files/Plots/Draftings/LG_2018_Light_Plot_G.pdf",
+    "description": "This plot was absolutely designed by me"
+  },
+  {
+    "title": "Spring Concert",
+    "subtitle": "Designed by me",
+    "path":"assets/files/Plots/Draftings/Spring Concert 2018 Light Plot.pdf",
+    "description": "This plot was absolutely designed by me"
+  },
+  {
+    "title": "Stumpy",
+    "subtitle": "Designed by me",
+    "path":"assets/files/Plots/Draftings/Stumpy_Lighting_Plot.pdf",
+    "description": "This plot was absolutely designed by me"
   }
-  current %= data.length;
-  var plot = data[current]
-  setAll(plot);
-});
+];
 
-document.getElementById("previous").addEventListener("click", function(){
-  current -= 1;
-  if (current < 0) {
-    current = 0;
-  }
-  current %= data.length;
-  var plot = data[current]
-  setAll(plot);
-});
-
-var plot = data[0];
-setAll(plot);
+var attr = "data";
