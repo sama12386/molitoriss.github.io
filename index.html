@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Sam Molitoriss</title>
+  <link rel="stylesheet" href="https://use.typekit.net/ktp7nnl.css">
+  <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style type="text/css">
+    html, body {
+      overflow-y: hidden;
+    }
+  </style>
+</head>
+
+<body class="bg-light">
+  <header class="bg-light">
+    <div id="title-block"><div class="left">
+      <h1>Sam Molitoriss</h1>
+    </div><div class="right">
+      <h2>Lighting Design</h2>
+      <h2><a href="mailto:sam@molitoriss.com">sam@molitoriss.com</a> | <a href="tel:7204257377">720.425.7377</a> | <a href="assets/files/resume.pdf">Resume</a></h2>
+    </div>
+    </div>
+    <div id="col-headers">
+      <h3 class="active">
+        Theatre
+      </h3><h3>
+        Live Events
+      </h3><h3>
+        Dance
+      </h3><h3>
+        Process
+      </h3>
+    </div>
+  </header>
+
+  <!-- Main columns -->
+  <main>
+    <div class="sublist" id="col-1">
+    </div><div class="sublist" id="col-2">
+    </div><div class="sublist" id="col-3">
+    </div><div class="sublist" id="col-4">
+      <a href="plots.html"><div class="page dark-text" id="draftings"><div><h1>Plots & Paperwork</h1></div></div></a>
+      <a href="programming.html"><div class="page" id="programming"><div><h1>Programming</h1></div></div></a>
+      <a href="process.html"><div class="page dark-text" id="design"><div><h1>Design Process</h1></div></div></a>
+    </div>
+    </div>
+  </main>
+
+  <div id="modal-overlay"></div>
+  <div id="modal" class="bg-light">
+    <div id="modal-actions">
+      <a href="javascript::void(0)" onclick="hideModal()">X</a>
+      <h1 id="modal-title-small"></h1>
+      <h2 id="modal-subtitle-small"></h2>
+    </div>
+    <div id="modal-gallery">
+      <div id="modal-image">
+        <!-- Should be used for firefox background transition -->
+        <div id="modal-image-inner"></div>
+      </div>
+      <!-- Image Gallery -->
+      <div id="modal-row" class="row"></div>
+    </div>
+
+    <div id="modal-content">
+      <h1 id="modal-title"></h1>
+      <h2 id="modal-subtitle"></h2>
+      <p id="modal-description"></p>
+    </div>
+  </div>
+
+  <footer class="bg-light"></footer>
+
+</body>
+<script type="text/javascript" src="assets/js/index.js"></script>
+</html>
