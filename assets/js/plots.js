@@ -7,13 +7,13 @@ var data = [
   },
   {
     "title": "Aida",
-    "subtitle": "Benedum Center for Performing Arts, 2018",
+    "subtitle": "Benedum Center for Performing Arts",
     "path":"assets/files/Plots/Draftings/Aida Light Plot.pdf",
     "description": "An in-class project involving problem-solving with new venues and culminating in a drafted plot."
   },
   {
     "title": "Lunar Gala",
-    "subtitle": "Wiegand Gymnasium, Carnegie Mellon University",
+    "subtitle": "Wiegand Gymnasium, Carnegie Mellon University, 2018",
     "path":"assets/files/Plots/Draftings/LG_2018_Light_Plot_G.pdf",
     "description": ""
   }/*,
