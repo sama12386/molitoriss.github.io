@@ -24,9 +24,9 @@ var events = [
     "name": "See What I Wanna See",
     "year": "2017",
     "venue": "Helen Wayne Rauh Studio Theater, 2017",
-    "blurb": "A musical about a murder investigation from four different persepctives. The lighting sets the tone of the interrogation room using harsh white beams, and then morphs into each of the four worlds of the night in question, supporting the themes of memory and truth.",
+    "blurb": "A musical about a murder investigation from four different perspectives. The lighting sets the tone of the interrogation room using harsh white beams, and then morphs into each of the four worlds of the night in question, supporting the themes of memory and truth.",
     "position": "Lighting Designer",
-    "description": "Carnegie Mellon School of Drama - Helen Wayne Rauh Studio Theater<br />Music, Lyrics and Book by Michael John LaChiusa<br />Directed by Catherine Moore<br />Lighting Design: <b>Sam Molitoriss</>, Jasmine Lesane, Chazz Malott and Jacob Wesson",
+    "description": "Music, Lyrics and Book by Michael John LaChiusa<br />Directed by Catherine Moore<br />Lighting Design: <b>Sam Molitoriss</b>, Jasmine Lesane, Chazz Malott and Jacob Wesson",
     "column": "theatre",
     "images": [
       "theatre/2017seewhatiwannasee/see_what_i_wanna_see-1.jpg",
@@ -57,7 +57,7 @@ var events = [
     "venue": "Wiegand Gymnasium, 2018",
     "blurb": "One of the largest fashion shows in Pittsburgh, Lunar Gala is a collection of student-designed and produced clothing lines. Interspersed with contemporary dances, this year's show was an exploration of human natural instinct, unbound by society.",
     "position": "Production & Lighting Designer",
-    "description": "Carnegie Mellon University - Wiegand Gymnasium<br />Produced by CMU Lunar Gala<br />Production and Lighting Design: <b>Sam Molitoriss</b><br />Sound Design: William Lowe<br />Media Design: Sophie Chen<br />Photos courtesy of CMU Lunar Gala",
+    "description": "Carnegie Mellon University - Wiegand Gymnasium<br />Produced by CMU Lunar Gala<br />Production & Lighting Design: <b>Sam Molitoriss</b><br />Sound Design: William Lowe<br />Media Design: Sophie Chen<br />Photos courtesy of CMU Lunar Gala",
     "column": "live",
     "images": [
       "live/2018lunargala/lunar_gala_2018-1.jpg",
@@ -97,7 +97,7 @@ var events = [
     "venue": "David A. Tepper Quadrangle, 2018",
     "blurb": "Embracing the open construction of the first building of the David A. Tepper quadrangle, this event featured a spoken program on stage and a grand ribbon cutting in the center of the atrium. I needed lighting on stage for the IMAG and broadcast, but it needed to be subtle so the focus was on the space. During dinner, a soft and comfortable envirnment was established that allowed guests to appreciate the architecture of the auditorium.",
     "position": "Lighting Designer & Event Consultant",
-    "description": "Produced by Carnegie Mellon University Advancement<br />Lighting Designer & Production Consultant: <b>Sam Molitoriss</b><br />Photos courtesy of CMU Marketing & Communications",
+    "description": "Produced by Carnegie Mellon University Advancement<br />Lighting Designer & Production Consultant: <b>Sam Molitoriss</b><br />Photos courtesy of CMU Marketing",
     "column": "live",
     "images": [
       "live/2018tepperquadopening/tepper_quad_opening-1.jpg",
