@@ -361,6 +361,17 @@ header h1 {
   vertical-align: bottom;
 }
 
+.next a {
+  text-decoration: none;
+  color: black;
+}
+
+a i.fa {
+  display: inline !important;
+  width: auto;
+  text-decoration: none;
+}
+
 @media screen and (max-width: 1500px) {
   html, body {
     font-size: 90%;
