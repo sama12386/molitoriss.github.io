@@ -224,7 +224,7 @@ function hideModal() {
   setTimeout(function (){
     modal.style.zIndex = -5;
     overlay.style.zIndex = -5;
-  }, 1200)
+  }, 700)
 }
 
 function showModal(event) {
@@ -361,7 +361,7 @@ function dontOverflow() {
   var col2Elements = document.querySelectorAll("#col-2 .page").length;
   var col3Elements = document.querySelectorAll("#col-3 .page").length;
   var col4Elements = document.querySelectorAll("#col-4 .page").length;
-  var screenHeight = window.innerHeight - 161;
+  var screenHeight = window.innerHeight - 150;
   var screenWidth = window.innerWidth;
   var cols = 4;
   if (screenWidth < 1000) {
