@@ -17,6 +17,14 @@ function setDescription(description) {
   document.getElementById("plot-description").innerText = description;
 }
 
+function setPageNumber(num) {
+  document.getElementById("current-pg").innerText = num + 1;
+}
+
+function setTotalPages(num) {
+  document.getElementById("total-pg").innerText = num;
+}
+
 function setAll(plot) {
   var title = plot["title"];
   var subtitle = plot["subtitle"];
@@ -27,14 +35,19 @@ function setAll(plot) {
   setSubtitle(subtitle);
   setDescription(description);
   changePDF(path);
+  setPageNumber(current);
+  setTotalPages(data.length);
 }
 
 document.getElementById("next").addEventListener("click", function(){
   current += 1;
   if (current < 0) {
     current = 0;
+    return;
+  } else if (current >= data.length) {
+    current = data.length - 1;
+    return;
   }
-  current %= data.length;
   var plot = data[current]
   setAll(plot);
 });
@@ -43,6 +56,8 @@ document.getElementById("previous").addEventListener("click", function(){
   current -= 1;
   if (current < 0) {
     current = 0;
+  } else if (current >= data.length) {
+    current = data.length - 1;
   }
   current %= data.length;
   var plot = data[current]
