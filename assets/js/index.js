@@ -216,11 +216,12 @@ function showModal(event) {
   var description = event[DESCRIPTION];
   var imagePath = "assets/img/" + event[IMAGES][0];
   var images = event[IMAGES];
-  var subtitle = year + " - " + position;
+  var subtitle = event["venue"];
   var overlay = document.getElementById("modal-overlay");
   var modal = document.getElementById("modal");
   document.getElementById("modal-title").innerText = name;
   document.getElementById("modal-subtitle").innerText = subtitle;
+  document.getElementById("modal-blurb").innerText = event["blurb"];
   document.getElementById("modal-title-small").innerText = name;
   document.getElementById("modal-subtitle-small").innerText = subtitle;
   document.getElementById("modal-description").innerHTML = description;
