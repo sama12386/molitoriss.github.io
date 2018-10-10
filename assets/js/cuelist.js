@@ -20,7 +20,7 @@ var data = [
   {
     "title": "Healed",
     "subtitle": "Helen Wayne Rauh Studio Theater, 2018",
-    "path":"assets/files/Process/Molitoriss_Healed_Lighting_Cue_List_V5",
+    "path":"assets/files/Process/Molitoriss_Healed_Lighting_Cue_List_V5.pdf",
     "description": ""
   }
 ];

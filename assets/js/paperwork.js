@@ -2,13 +2,13 @@ var data = [
   {
     "title": "Stumpy Legs Too Short - Channel Hookup",
     "subtitle": "Helen Wayne Rauh Studio Theatre, 2018",
-    "path":"assets/files/Plots/Lightwright Paperwork/Molitoriss_Stumpy_Channel_Hookup.pdf",
+    "path":"assets/files/Plots/Lightwright Paperwork/Stumpy_Channel_Hookup.pdf",
     "description": ""
   },
   {
     "title": "Stumpy Legs Too Short - Instrument Schedule",
     "subtitle": "Helen Wayne Rauh Studio Theatre, 2018",
-    "path":"assets/files/Plots/Lightwright Paperwork/Molitoriss_Stumpy_Instrument_Schedule.pdf",
+    "path":"assets/files/Plots/Lightwright Paperwork/Stumpy_Instrument_Schedule.pdf",
     "description": ""
   }/*,
   {
