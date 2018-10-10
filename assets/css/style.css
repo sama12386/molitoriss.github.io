@@ -411,6 +411,16 @@ a i.fa {
   }
 }
 
+@media screen and (max-width: 920px) {
+  #title-block h1{
+    font-size: 1.6rem;
+  }
+
+  #title-block h2 {
+    font-size: 0.9rem;
+  }
+}
+
 @media screen and (max-width: 700px) {
   .sublist {
     width: calc(100%);
