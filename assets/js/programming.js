@@ -1,15 +1,15 @@
 var data = [
   {
-    "title": "Hog Factor",
-    "subtitle": "Programmed by me",
+    "title": "\"Handclap\" by Fitz and the Tantrums",
+    "subtitle": "HogFactor Competition 2018",
     "path":"https://player.vimeo.com/video/293650013",
-    "description": "This plot was absolutely designed by me"
+    "description": "Programmed on Hog4"
   },
   {
-    "title": "Instant Crush",
-    "subtitle": "Designed by me",
+    "title": "\"Instant Crush\" by Daft Punk",
+    "subtitle": "Designer: Alex Fasciolo",
     "path":"https://player.vimeo.com/video/293654092",
-    "description": "This plot was absolutely designed by me"
+    "description": "Programmed on V476"
   }
 ];
 
