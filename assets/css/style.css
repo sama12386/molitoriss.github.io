@@ -340,6 +340,7 @@ header h1 {
 #pdf-info {
   width: 25%;
   margin-top: 25px;
+  margin-left: 17px;
   display: inline-block;
   vertical-align: top;
   text-align: center;
