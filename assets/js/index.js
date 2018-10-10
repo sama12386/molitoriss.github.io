@@ -2,8 +2,10 @@ var events = [
   {
     "name": "Stumpy Legs Too Short",
     "year": "2018",
+    "venue": "Helen Wayne Rauh Studio Theater, 2018",
+    "blurb": "A post-dramatic play about a young girl sexually abused by her father. The lighting explored her multi-faceted psyche through striking color, shadow play, and sharp angles.",
     "position": "Lighting Designer",
-    "description": "Carnegie Mellon School of Drama - Helen Wayne Rauh Studio Theater<br />Written by Katja Brunner<br />Directed by Bronwyn Donohue<br />Scenic Design: Alex Kaplan<br />Costume Design: Stefan Romero<br />Media Design: Sophie Chen<br />Photos courtesy of <a href=\"https://www.lbsphoto.com\" target=\"_blank\">Louis Stein</a>",
+    "description": "Written by Katja Brunner<br />Directed by Bronwyn Donohue<br />Scenic Design: Alex Kaplan<br />Costume Design: Stefan Romero<br />Lighting Design: <b>Sam Molitoriss</b><br />Media Design: Sophie Chen<br />Photos courtesy of <a href=\"https://www.lbsphoto.com\" target=\"_blank\">Louis Stein</a>",
     "column": "theatre",
     "images": [
       "theatre/2018stumpylegs/stumpy_legs-1.jpg",
@@ -21,8 +23,10 @@ var events = [
   {
     "name": "See What I Wanna See",
     "year": "2017",
+    "venue": "Helen Wayne Rauh Studio Theater, 2017",
+    "blurb": "kk",
     "position": "Lighting Designer",
-    "description": "Carnegie Mellon School of Drama - Helen Wayne Rauh Studio Theater<br />Music, Lyrics and Book by Michael John LaChiusa<br />Directed by Catherine Moore<br />Co-Designed with Jasmine Lesane, Chazz Malott and Jacob Wesson",
+    "description": "Carnegie Mellon School of Drama - Helen Wayne Rauh Studio Theater<br />Music, Lyrics and Book by Michael John LaChiusa<br />Directed by Catherine Moore<br />Lighting Design: <b>Sam Molitoriss</>, Jasmine Lesane, Chazz Malott and Jacob Wesson",
     "column": "theatre",
     "images": [
       "theatre/2017seewhatiwannasee/see_what_i_wanna_see-1.jpg",
