@@ -3,7 +3,7 @@ var events = [
     "name": "Stumpy Legs Too Short",
     "year": "2018",
     "venue": "Helen Wayne Rauh Studio Theater, 2018",
-    "blurb": "A post-dramatic play about a young girl sexually abused by her father. The lighting explored her multi-faceted psyche through striking color, shadow play, and sharp angles.",
+    "blurb": "A post-dramatic play about a young girl suffering from abuse. The lighting explored her multi-faceted psyche through striking color, shadow play, and sharp angles.",
     "position": "Lighting Designer",
     "description": "Written by Katja Brunner<br />Directed by Bronwyn Donohue<br />Scenic Design: Alex Kaplan<br />Costume Design: Stefan Romero<br />Lighting Design: <b>Sam Molitoriss</b><br />Media Design: Sophie Chen<br />Photos courtesy of <a href=\"https://www.lbsphoto.com\" target=\"_blank\">Louis Stein</a>",
     "column": "theatre",
