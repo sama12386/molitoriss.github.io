@@ -361,7 +361,7 @@ function dontOverflow() {
   var col2Elements = document.querySelectorAll("#col-2 .page").length;
   var col3Elements = document.querySelectorAll("#col-3 .page").length;
   var col4Elements = document.querySelectorAll("#col-4 .page").length;
-  var screenHeight = window.innerHeight - 150;
+  var screenHeight = window.innerHeight - 170;
   var screenWidth = window.innerWidth;
   var cols = 4;
   if (screenWidth < 1000) {

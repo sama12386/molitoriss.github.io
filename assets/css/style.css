@@ -42,7 +42,7 @@ html, body {
 
 .page div {
   position: relative;
-  bottom: 0px;
+  bottom: 2px;
   right: 2px;
   text-align: right;
   width: calc(100% - 10px);
@@ -56,7 +56,7 @@ html, body {
 }
 
 .page h1 {
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
 
 .page:hover h1, .page:hover h2, .page:hover h3 {
@@ -264,7 +264,7 @@ header h2 {
 }
 
 #col-headers h4 a.active {
-  font-style: italic;
+  color: rgb(200,200,200);
 }
 
 #draftings {
@@ -324,8 +324,7 @@ header h2 {
 
 main {
   z-index: -1;
-  padding-top: 130px;
-  
+  padding-top: 130px; 
 }
 
 header h1 {
@@ -355,7 +354,11 @@ header h1 {
 }
 
 #pdf-info .prev {
-  height: 20vh;
+  position: fixed;
+  top: 135px;
+  width: 27%;
+  text-align: center;
+  left: 73%;
 }
 
 #pdf-info .prev a{
@@ -363,7 +366,11 @@ header h1 {
 }
 
 #pdf-info .content {
-  height: 45vh;
+  position: fixed;
+  top: 35vh;
+  width: 27%;
+  text-align: center;
+  left: 73%;
 }
 
 #pdf-info .next {
@@ -403,6 +410,67 @@ a i.fa {
   font-size: 1rem;
   text-align: center !important;
   font-style: italic;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow: hidden;
+    background-image: linear-gradient(to right, #4b8dde, #002a4f);
+}
+
+nav li {
+    float: left;
+    width: 25%;
+}
+
+nav li a, .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    width: calc(100% - 16px);
+    padding: 7px 8px;
+    text-decoration: none;
+}
+
+nav li a:hover, .dropdown:hover .dropbtn {
+    background-color: rgba(0,0,0,0.5);
+}
+
+nav li.dropdown {
+    display: inline-block;
+}
+
+nav .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    padding-right: 16px; 
+}
+
+nav .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    padding-right: 0;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+nav .dropdown-content a:hover {background-color: #f1f1f1}
+
+nav .dropdown:hover .dropdown-content {
+    display: block;
+}
+
+nav.small-nav li {
+  padding: 5px 0;
+}
 }
 
 @media screen and (max-width: 1020px) {
