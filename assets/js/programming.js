@@ -1,6 +1,6 @@
 var data = [
   {
-    "title": "\"Peace of Mind\" by Boston,
+    "title": "\"Peace of Mind\" by Boston",
     "subtitle": "John Wells Video Studio",
     "path":"https://player.vimeo.com/video/306111814",
     "description": "Programmed on grandMA2"
