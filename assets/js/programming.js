@@ -1,5 +1,11 @@
 var data = [
   {
+    "title": "\"Peace of Mind\" by Boston,
+    "subtitle": "John Wells Video Studio",
+    "path":"https://player.vimeo.com/video/306111814",
+    "description": "Programmed on grandMA2"
+  },
+  {
     "title": "\"Handclap\" by Fitz and the Tantrums",
     "subtitle": "HogFactor Competition 2018",
     "path":"https://player.vimeo.com/video/293650013",
@@ -9,7 +15,7 @@ var data = [
     "title": "\"Instant Crush\" by Daft Punk",
     "subtitle": "Designer: Alex Fasciolo",
     "path":"https://player.vimeo.com/video/293654092",
-    "description": "Programmed on V476"
+    "description": "Programmed on v476"
   }
 ];
 
