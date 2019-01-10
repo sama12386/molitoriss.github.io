@@ -95,7 +95,7 @@ var events = [
     "name": "Tepper Quadrangle Grand Opening",
     "year": "2018",
     "venue": "David A. Tepper Quadrangle, 2018",
-    "blurb": "Embracing the open construction of the first building of the David A. Tepper quadrangle, this event featured a spoken program on stage and a grand ribbon cutting in the center of the atrium. I needed lighting on stage for the IMAG and broadcast, but it needed to be subtle so the focus was on the space. During dinner, a soft and comfortable envirnment was established that allowed guests to appreciate the architecture of the auditorium.",
+    "blurb": "Embracing the open construction of the first building of the David A. Tepper quadrangle, this event featured a spoken program on stage and a grand ribbon cutting in the center of the atrium. I needed lighting on stage for the IMAG and broadcast, but it needed to be subtle so the focus was on the space. During dinner, a soft and comfortable environment was established that allowed guests to appreciate the architecture of the auditorium.",
     "position": "Lighting Designer & Event Consultant",
     "description": "Produced by Carnegie Mellon University Advancement<br />Lighting Designer & Production Consultant: <b>Sam Molitoriss</b><br />Photos courtesy of CMU Marketing",
     "column": "live",
