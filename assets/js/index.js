@@ -139,6 +139,21 @@ var events = [
     ]
   },
   {
+    "name": "Tangential Antibodies",
+    "year": "2019",
+    "venue": "Helen Wayne Rauh Studio Theater, 2019",
+    "blurb": "",
+    "position": "Lighting Designer",
+    "description": "Choreographed by Emily Suarez<br />Lighting Design: <b>Sam Molitoriss</b><br />Photos courtesy of <a href=\"https://www.lbsphoto.com\" target=\"_blank\">Louis Stein</a>",
+    "column": "dance",
+    "images": [
+      "dance/2019tangential/tangential-1.jpg",
+      "dance/2019tangential/tangential-2.jpg",
+      "dance/2019tangential/tangential-3.jpg",
+      "dance/2019tangential/tangential-4.jpg"
+    ]
+  },
+  {
     "name": "Healed",
     "year": "2018",
     "venue": "Helen Wayne Rauh Studio Theater, 2018",
