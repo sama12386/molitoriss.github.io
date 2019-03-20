@@ -47,8 +47,7 @@ var events = [
       "theatre/2015expedition/expedition-1.jpg",
       "theatre/2015expedition/expedition-2.jpg",
       "theatre/2015expedition/expedition-3.jpg",
-      "theatre/2015expedition/expedition-4.jpg",
-      "theatre/2015expedition/expedition-5.jpg"
+      "theatre/2015expedition/expedition-4.jpg"
     ]
   },
   {
