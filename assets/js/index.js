@@ -47,8 +47,7 @@ var events = [
       "theatre/2015expedition/expedition-1.jpg",
       "theatre/2015expedition/expedition-2.jpg",
       "theatre/2015expedition/expedition-3.jpg",
-      "theatre/2015expedition/expedition-4.jpg",
-      "theatre/2015expedition/expedition-5.jpg"
+      "theatre/2015expedition/expedition-4.jpg"
     ]
   },
   {
@@ -95,7 +94,7 @@ var events = [
     "name": "Tepper Quadrangle Grand Opening",
     "year": "2018",
     "venue": "David A. Tepper Quadrangle, 2018",
-    "blurb": "Embracing the open construction of the first building of the David A. Tepper quadrangle, this event featured a spoken program on stage and a grand ribbon cutting in the center of the atrium. I needed lighting on stage for the IMAG and broadcast, but it needed to be subtle so the focus was on the space. During dinner, a soft and comfortable envirnment was established that allowed guests to appreciate the architecture of the auditorium.",
+    "blurb": "Embracing the open construction of the first building of the David A. Tepper quadrangle, this event featured a spoken program on stage and a grand ribbon cutting in the center of the atrium. I needed lighting on stage for the IMAG and broadcast, but it needed to be subtle so the focus was on the space. During dinner, a soft and comfortable environment was established that allowed guests to appreciate the architecture of the auditorium.",
     "position": "Lighting Designer & Event Consultant",
     "description": "Produced by Carnegie Mellon University Advancement<br />Lighting Designer & Production Consultant: <b>Sam Molitoriss</b><br />Photos courtesy of CMU Marketing",
     "column": "live",
@@ -136,6 +135,21 @@ var events = [
       "live/2017playgroundxv/playgroundxv-4.jpg",
       "live/2017playgroundxv/playgroundxv-5.jpg",
       "live/2017playgroundxv/playgroundxv-6.jpg"
+    ]
+  },
+  {
+    "name": "Tangential Antibodies",
+    "year": "2019",
+    "venue": "Helen Wayne Rauh Studio Theater, 2019",
+    "blurb": "",
+    "position": "Lighting Designer",
+    "description": "Choreographed by Emily Suarez<br />Lighting Design: <b>Sam Molitoriss</b><br />Photos courtesy of <a href=\"https://www.lbsphoto.com\" target=\"_blank\">Louis Stein</a>",
+    "column": "dance",
+    "images": [
+      "dance/2019tangential/tangential-1.jpg",
+      "dance/2019tangential/tangential-2.jpg",
+      "dance/2019tangential/tangential-3.jpg",
+      "dance/2019tangential/tangential-4.jpg"
     ]
   },
   {
