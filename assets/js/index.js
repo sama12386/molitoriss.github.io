@@ -146,10 +146,10 @@ var events = [
     "description": "Choreographed by Emily Suarez<br />Lighting Design: <b>Sam Molitoriss</b><br />Photos courtesy of <a href=\"https://www.lbsphoto.com\" target=\"_blank\">Louis Stein</a>",
     "column": "dance",
     "images": [
-      "dance/2019tangential/tangential-1.jpg",
-      "dance/2019tangential/tangential-2.jpg",
-      "dance/2019tangential/tangential-3.jpg",
-      "dance/2019tangential/tangential-4.jpg"
+      "dance/2019tangential/tangential1.jpg",
+      "dance/2019tangential/tangential2.jpg",
+      "dance/2019tangential/tangential3.jpg",
+      "dance/2019tangential/tangential4.jpg"
     ]
   },
   {
