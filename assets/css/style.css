@@ -4,12 +4,12 @@ html, body {
 }
 
 .bg-light {
-  background-color: rgb(235,235,235);
-  color: black;
+  background-color: rgb(30,30,30);
+  color: lightgray;
 }
 
 .bg-light h1, .bg-light h2, .bg-light h3 {
-  color: black;
+  color: lightgray;
 }
 
 .bg-dark {
@@ -96,10 +96,6 @@ main {
   box-shadow: 0 8px 8px 0 rgba(155, 155, 155, 0.2), 0 6px 20px 0 rgba(155, 155, 155, 0.19);
   z-index: -1;
   opacity: 0;
-}
-
-#modal a {
-  color: black;
 }
 
 #modal-gallery {
@@ -190,7 +186,7 @@ footer {
   text-align: center;
   padding-top: 10px;
   background-image: linear-gradient(to right, #4b8dde, #002a4f);
-  border-top: 3px solid rgb(235,235,235);
+  border-top: 3px solid rgb(30,30,30);
 }
 
 header {
@@ -230,8 +226,11 @@ header h2 {
 }
 
 #title-block a{
-  color: black;
   text-decoration: none;
+}
+
+#title-block a, #modal a{
+  color: lightgray;
 }
 
 #col-headers {
@@ -361,8 +360,9 @@ header h1 {
   left: 73%;
 }
 
-#pdf-info .prev a{
-  color: black;
+#pdf-info .prev a, .next a{
+  color: white;
+  text-decoration: none;
 }
 
 #pdf-info .content {
@@ -381,11 +381,6 @@ header h1 {
   left: 73%;
 }
 
-.next a {
-  text-decoration: none;
-  color: black;
-}
-
 a i.fa {
   display: inline !important;
   width: auto;
@@ -393,7 +388,7 @@ a i.fa {
 }
 
 .blue-text {
-  color: #001370;
+  color: #4b8dde;
 }
 
 .wider {
@@ -419,6 +414,7 @@ nav ul {
     width: 100%;
     overflow: hidden;
     background-image: linear-gradient(to right, #4b8dde, #002a4f);
+    font-size: 1.2rem;
 }
 
 nav li {
@@ -470,6 +466,7 @@ nav .dropdown:hover .dropdown-content {
 
 nav.small-nav li {
   padding: 5px 0;
+  font-style: italic;
 }
 }
 
