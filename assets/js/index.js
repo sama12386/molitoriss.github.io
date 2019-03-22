@@ -161,10 +161,10 @@ var events = [
     "description": "Choreographed by Ramsey Pack<br />Lighting Design: <b>Sam Molitoriss</b><br />Photos courtesy of <a href=\"https://www.lbsphoto.com\" target=\"_blank\">Louis Stein</a>",
     "column": "dance",
     "images": [
-      "dance/2018healed/healed-1.jpg",
       "dance/2018healed/healed-2.jpg",
-      "dance/2018healed/healed-3.jpg",
-      "dance/2018healed/healed-4.jpg"
+      "dance/2018healed/healed-1.jpg",
+      "dance/2018healed/healed-3.jpg"/*,
+      "dance/2018healed/healed-4.jpg"*/
     ]
   },
   {
