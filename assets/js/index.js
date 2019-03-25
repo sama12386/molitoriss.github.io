@@ -313,7 +313,6 @@ document.getElementById("col-1").addEventListener("wheel", function(e) {
   yTransform1 += -1 * transform;
   yTransform2 += -1 * transform / 4;
   yTransform3 += -1 * transform / 8;
-  yTransform4 += -1 * transform / 16;
   setTransforms();
 });
 
@@ -323,7 +322,6 @@ document.getElementById("col-2").addEventListener("wheel", function(e) {
   yTransform1 += -1 * transform / 4;
   yTransform2 += -1 * transform;
   yTransform3 += -1 * transform / 4;
-  yTransform4 += -1 * transform / 8;
   setTransforms();
 });
 
@@ -333,17 +331,6 @@ document.getElementById("col-3").addEventListener("wheel", function(e) {
   yTransform1 += -1 * transform / 8;
   yTransform2 += -1 * transform / 4;
   yTransform3 += -1 * transform;
-  yTransform4 += -1 * transform / 4;
-  setTransforms();
-});
-
-var yTransform4 = 0;
-document.getElementById("col-4").addEventListener("wheel", function(e) {
-  var transform = getTransform(e.deltaY);
-  yTransform1 += -1 * transform / 16;
-  yTransform2 += -1 * transform / 8;
-  yTransform3 += -1 * transform / 4;
-  yTransform4 += -1 * transform;
   setTransforms();
 });
 
@@ -365,19 +352,15 @@ function dontUnderflow() {
   if (yTransform3 > 0) {
     yTransform3 = 0;
   }
-  if (yTransform4 > 0) {
-    yTransform4 = 0;
-  }
 }
 
 function dontOverflow() {
   var col1Elements = document.querySelectorAll("#col-1 .page").length;
   var col2Elements = document.querySelectorAll("#col-2 .page").length;
   var col3Elements = document.querySelectorAll("#col-3 .page").length;
-  var col4Elements = document.querySelectorAll("#col-4 .page").length;
   var screenHeight = window.innerHeight - 170;
   var screenWidth = window.innerWidth;
-  var cols = 4;
+  var cols = 3;
   if (screenWidth < 1000) {
     cols = 2;
   } else if (screenWidth < 700) {
@@ -392,9 +375,6 @@ function dontOverflow() {
   }
   if ((yTransform3 - screenHeight) < -1 * (boxHeight * col3Elements)) {
     yTransform3 = -1 * ((boxHeight * col3Elements) - screenHeight);
-  }
-  if ((yTransform4 - screenHeight) < -1 * (boxHeight * col4Elements)) {
-    yTransform4 = -1 * ((boxHeight * col4Elements) - screenHeight);
   }
 }
 
@@ -430,27 +410,22 @@ function zeroTransforms() {
   yTransform1 = 0;
   yTransform2 = 0;
   yTransform3 = 0;
-  yTransform4 = 0;
 
   var column1 = document.getElementById("col-1");
   var column2 = document.getElementById("col-2");
   var column3 = document.getElementById("col-3");
-  var column4 = document.getElementById("col-4");
 
   column1.style.transform = "translateY(" + yTransform1 + "px)";
   column2.style.transform = "translateY(" + yTransform2 + "px)";
   column3.style.transform = "translateY(" + yTransform3 + "px)";
-  column4.style.transform = "transformY(" + yTransform4 + "px)";
   // For Webkit
   column1.style.webkitTransform = "translateY(" + yTransform1 + "px)";
   column2.style.webkitTransform = "translateY(" + yTransform2 + "px)";
   column3.style.webkitTransform = "translateY(" + yTransform3 + "px)";
-  column4.style.webkitTransform = "translateY(" + yTransform4 + "px)";
   // For Opera
   column1.style.oTransform = "translateY(" + yTransform1 + "px)";
   column2.style.oTransform = "translateY(" + yTransform2 + "px)";
   column3.style.oTransform = "translateY(" + yTransform3 + "px)";
-  column4.style.oTransform = "translateY(" + yTransform4 + "px)";
 }
 
 document.getElementById("modal-overlay").addEventListener("click", function() {

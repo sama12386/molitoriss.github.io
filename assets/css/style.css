@@ -64,7 +64,7 @@ html, body {
 }
 
 .sublist {
-  width: calc(100% / 4);
+  width: calc(100% / 3);
   display: inline-block;
   vertical-align: top;
   text-align: center;
@@ -419,7 +419,11 @@ nav ul {
 
 nav li {
     float: left;
-    width: 25%;
+    width: calc(100% / 4);
+}
+
+.small-nav li {
+  width: calc(100% / 3);
 }
 
 nav li a, .dropbtn {
