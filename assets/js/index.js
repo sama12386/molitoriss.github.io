@@ -388,22 +388,18 @@ function setTransforms() {
   var column1 = document.getElementById("col-1");
   var column2 = document.getElementById("col-2");
   var column3 = document.getElementById("col-3");
-  var column4 = document.getElementById("col-4");
 
   column1.style.transform = "translateY(" + yTransform1 + "px)";
   column2.style.transform = "translateY(" + yTransform2 + "px)";
   column3.style.transform = "translateY(" + yTransform3 + "px)";
-  column4.style.transform = "translateY(" + yTransform4 + "px)";
   // For Webkit
   column1.style.webkitTransform = "translateY(" + yTransform1 + "px)";
   column2.style.webkitTransform = "translateY(" + yTransform2 + "px)";
   column3.style.webkitTransform = "translateY(" + yTransform3 + "px)";
-  column4.style.webkitTransform = "translateY(" + yTransform4 + "px)";
   // For Opera
   column1.style.oTransform = "translateY(" + yTransform1 + "px)";
   column2.style.oTransform = "translateY(" + yTransform2 + "px)";
   column3.style.oTransform = "translateY(" + yTransform3 + "px)";
-  column4.style.oTransform = "translateY(" + yTransform4 + "px)";
 }
 
 function zeroTransforms() {
