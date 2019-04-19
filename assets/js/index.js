@@ -11,13 +11,13 @@ var events = [
       "theatre/2018stumpylegs/stumpy_legs-1.jpg",
       "theatre/2018stumpylegs/stumpy_legs-2.jpg",
       "theatre/2018stumpylegs/stumpy_legs-3.jpg",
-      "theatre/2018stumpylegs/stumpy_legs-4.jpg",
+      "theatre/2018stumpylegs/stumpy_legs-4.jpg",/*
       "theatre/2018stumpylegs/stumpy_legs-5.jpg",
       "theatre/2018stumpylegs/stumpy_legs-6.jpg",
       "theatre/2018stumpylegs/stumpy_legs-7.jpg",
-      "theatre/2018stumpylegs/stumpy_legs-8.jpg",
-      "theatre/2018stumpylegs/stumpy_legs-9.jpg",
-      "theatre/2018stumpylegs/stumpy_legs-10.jpg"
+      "theatre/2018stumpylegs/stumpy_legs-8.jpg",*/
+      "theatre/2018stumpylegs/stumpy_legs-9.jpg"/*,
+      "theatre/2018stumpylegs/stumpy_legs-10.jpg*/"
     ]
   },
   {
