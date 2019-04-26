@@ -1,5 +1,20 @@
 var events = [
   {
+    "name": "The Comedy of Errors",
+    "year": "2019",
+    "venue": "Philip Chosky Theater, 2019",
+    "blurb": "",
+    "description": "Photos courtesy of <a href=\"https://www.lbsphoto.com\" target=\"_blank\">Louis Stein</a>",
+    "column": "theatre",
+    "images": [
+      "theatre/2019comedy/comedy1.jpg",
+      "theatre/2019comedy/comedy2.jpg",
+      "theatre/2019comedy/comedy3.jpg,
+      "theatre/2019comedy/comedy5.jpg",
+      "theatre/2019comedy/comedy6.jpg"
+    ]
+  },
+  {
     "name": "Stumpy Legs Too Short",
     "year": "2018",
     "venue": "Helen Wayne Rauh Studio Theater, 2018",
