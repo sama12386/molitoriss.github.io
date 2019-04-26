@@ -1,5 +1,5 @@
 var events = [
-  {
+  /*{
     "name": "The Comedy of Errors",
     "year": "2019",
     "venue": "Philip Chosky Theater, 2019",
@@ -13,7 +13,7 @@ var events = [
       "theatre/2019comedy/comedy5.jpg",
       "theatre/2019comedy/comedy6.jpg"
     ]
-  },
+  },*/
   {
     "name": "Stumpy Legs Too Short",
     "year": "2018",
