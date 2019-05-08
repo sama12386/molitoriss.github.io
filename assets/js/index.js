@@ -1,4 +1,19 @@
 var events = [
+  /*{
+    "name": "The Comedy of Errors",
+    "year": "2019",
+    "venue": "Philip Chosky Theater, 2019",
+    "blurb": "",
+    "description": "Photos courtesy of <a href=\"https://www.lbsphoto.com\" target=\"_blank\">Louis Stein</a>",
+    "column": "theatre",
+    "images": [
+      "theatre/2019comedy/comedy1.jpg",
+      "theatre/2019comedy/comedy2.jpg",
+      "theatre/2019comedy/comedy4.jpg",
+      "theatre/2019comedy/comedy5.jpg",
+      "theatre/2019comedy/comedy6.jpg"
+    ]
+  },*/
   {
     "name": "Stumpy Legs Too Short",
     "year": "2018",
@@ -12,12 +27,7 @@ var events = [
       "theatre/2018stumpylegs/stumpy_legs-2.jpg",
       "theatre/2018stumpylegs/stumpy_legs-3.jpg",
       "theatre/2018stumpylegs/stumpy_legs-4.jpg",
-      "theatre/2018stumpylegs/stumpy_legs-5.jpg",
-      "theatre/2018stumpylegs/stumpy_legs-6.jpg",
-      "theatre/2018stumpylegs/stumpy_legs-7.jpg",
-      "theatre/2018stumpylegs/stumpy_legs-8.jpg",
-      "theatre/2018stumpylegs/stumpy_legs-9.jpg",
-      "theatre/2018stumpylegs/stumpy_legs-10.jpg"
+      "theatre/2018stumpylegs/stumpy_legs-9.jpg"
     ]
   },
   {
