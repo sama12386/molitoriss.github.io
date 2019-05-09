@@ -320,7 +320,7 @@ function createGridSquare(title, subtitle, imagePath) {
   titleDiv.appendChild(title);
   gridSquare.appendChild(titleDiv);
   gridSquare.classList.add("page");
-  gridSquare.style.background = "url(" + imagePath + ")";
+  gridSquare.style.backgroundImage = "url(" + imagePath + ")";
   return gridSquare;
 }
 
