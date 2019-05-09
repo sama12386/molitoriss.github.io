@@ -1,5 +1,5 @@
 var events = [
-  /*{
+  {
     "name": "The Comedy of Errors",
     "year": "2019",
     "venue": "Philip Chosky Theater, 2019",
@@ -9,11 +9,12 @@ var events = [
     "images": [
       "theatre/2019comedy/comedy1.jpg",
       "theatre/2019comedy/comedy2.jpg",
+      "theatre/2019comedy/comedy3.jpg",
       "theatre/2019comedy/comedy4.jpg",
       "theatre/2019comedy/comedy5.jpg",
       "theatre/2019comedy/comedy6.jpg"
     ]
-  },*/
+  },
   {
     "name": "Stumpy Legs Too Short",
     "year": "2018",
@@ -61,7 +62,43 @@ var events = [
     ]
   },
   {
-    "name": "Lunar Gala",
+    "name": "Lunar Gala 2019",
+    "year": "2019",
+    "venue": "Wiegand Gymnasium, 2019",
+    "blurb": "One of the largest fashion shows in Pittsburgh, Lunar Gala is a collection of student-designed and produced clothing lines. Interspersed with contemporary dances, this year's design featured a wishbone-shaped runway, bringing the models farther out into the audience.",
+    "position": "Production & Lighting Designer",
+    "description": "Carnegie Mellon University - Wiegand Gymnasium<br />Produced by CMU Lunar Gala<br />Production & Lighting Design: <br /><b>Sam Molitoriss</b><br />Sound Design: Rachel Kolb<br />Media Design: Sophie Chen<br />Photos courtesy of CMU Lunar Gala",
+    "column": "live",
+    "images": [
+      "live/2019lunargala/lg2019-2.jpg",
+      "live/2019lunargala/lg2019-1.jpg",
+      "live/2019lunargala/lg2019-3.jpg",
+      "live/2019lunargala/lg2019-5.jpg",
+      "live/2019lunargala/lg2019-4.jpg"
+    ]
+  },
+  {
+    "name": "Wale Concert",
+    "year": "2018",
+    "venue": "Carnegie Mellon Main Quad, 2018",
+    "blurb": "",
+    "position": "Lighting Designer",
+    "description": "Carnegie Mellon University<br />Produced by CMU Activities Board<br />Production & Lighting Design: <br /><b>Sam Molitoriss</b><br />Sound Design: Scott MacDonald<br />Video Design: Kenny Cohen<br />Photos courtesy of Noah Hull",
+    "column": "live",
+    "images": [
+      "live/2018wale/wale-2.jpg",
+      "live/2018wale/wale-1.jpg",
+      "live/2018wale/wale-3.jpg",
+      "live/2018wale/wale-4.jpg",
+      "live/2018wale/wale-5.jpg",
+      "live/2018wale/wale-6.jpg",
+      "live/2018wale/wale-7.jpg",
+      "live/2018wale/wale-8.jpg",
+      "live/2018wale/wale-9.jpg"
+    ]
+  },
+  {
+    "name": "Lunar Gala 2018",
     "year": "2018",
     "venue": "Wiegand Gymnasium, 2018",
     "blurb": "One of the largest fashion shows in Pittsburgh, Lunar Gala is a collection of student-designed and produced clothing lines. Interspersed with contemporary dances, this year's show was an exploration of human natural instinct, unbound by society.",
@@ -78,26 +115,6 @@ var events = [
       "live/2018lunargala/lunar_gala_2018-7.jpg",
       "live/2018lunargala/lunar_gala_2018-8.jpg",
       "live/2018lunargala/lunar_gala_2018-9.jpg"
-    ]
-  },
-  {
-    "name": "Wale Concert",
-    "year": "2018",
-    "venue": "Carnegie Mellon Main Quad, 2018",
-    "blurb": "",
-    "position": "Lighting Designer",
-    "description": "Carnegie Mellon University<br />Produced by CMU Activities Board<br />Production & Lighting Design: <br /><b>Sam Molitoriss</b><br />Sound Design: Scott MacDonald<br />Video Design: Kenny Cohen<br />Photos courtesy of Noah Hull",
-    "column": "live",
-    "images": [
-      "live/2018wale/wale-1.jpg",
-      "live/2018wale/wale-2.jpg",
-      "live/2018wale/wale-3.jpg",
-      "live/2018wale/wale-4.jpg",
-      "live/2018wale/wale-5.jpg",
-      "live/2018wale/wale-6.jpg",
-      "live/2018wale/wale-7.jpg",
-      "live/2018wale/wale-8.jpg",
-      "live/2018wale/wale-9.jpg"
     ]
   },
   {
