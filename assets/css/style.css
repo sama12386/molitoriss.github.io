@@ -132,6 +132,7 @@ main {
   height: 100%;
   background-image: none;
   background-size: cover;
+  object-fit: scale-down;
 }
 
 #modal .row {

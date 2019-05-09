@@ -267,7 +267,8 @@ function showModal(event) {
   document.getElementById("modal-title-small").innerText = name;
   document.getElementById("modal-subtitle-small").innerText = subtitle;
   document.getElementById("modal-description").innerHTML = description;
-  document.getElementById("modal-image").style.background = "url(" + imagePath + ")";
+  document.getElementById("modal-image-inner").src = imagePath;
+  console.log(imagePath);
   setImageGallery(images);
   modal.style.opacity = 1;
   modal.style.zIndex = 5;
@@ -282,11 +283,12 @@ function setImageGallery(images) {
     var image = document.createElement("div");
     image.classList.add("image");
     var imagePath = images[i];
+    image.setAttribute('data-path', imagePath);
     image.style.backgroundImage = "url(assets/img/" + imagePath + ")";
     image.addEventListener("click", function(e) {
       var style = window.getComputedStyle(e.target);
-      document.getElementById("modal-image").style.backgroundImage = style.backgroundImage;
-      event.stopPropagation();
+      document.getElementById("modal-image-inner").src = "assets/img/" + e.target.getAttribute('data-path');
+      console.log(e.target.getAttribute('data-path'));
     });
     modalRow.appendChild(image);
   }
