@@ -8,11 +8,11 @@ var events = [
     "column": "theatre",
     "images": [
       "theatre/2019comedy/comedy1.jpg",
-      "theatre/2019comedy/comedy2.jpg",
-      "theatre/2019comedy/comedy3.jpg",
       "theatre/2019comedy/comedy4.jpg",
+      "theatre/2019comedy/comedy3.jpg",
+      "theatre/2019comedy/comedy8.jpg",
       "theatre/2019comedy/comedy5.jpg",
-      "theatre/2019comedy/comedy6.jpg"
+      "theatre/2019comedy/comedy10.jpg"
     ]
   },
   {
