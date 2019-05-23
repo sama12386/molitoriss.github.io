@@ -4,7 +4,7 @@ var events = [
     "year": "2019",
     "venue": "Philip Chosky Theater, 2019",
     "blurb": "",
-    "description": "Photos courtesy of <a href=\"https://www.lbsphoto.com\" target=\"_blank\">Louis Stein</a>",
+    "description": "Written by William Shakespeare<br />Directed by Don Wadsworth<br />Scenic Design: Sasha Schwartz<br />Costume Design: Stefan Romero<br />Lighting Design: <b>Sam Molitoriss</b><br />Sound Design: Javier Galarza-Garcia<br />Photos courtesy of <a href=\"https://www.lbsphoto.com\" target=\"_blank\">Louis Stein</a>",
     "column": "theatre",
     "images": [
       "theatre/2019comedy/comedy1.jpg",
