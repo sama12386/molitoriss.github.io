@@ -183,7 +183,7 @@ var events = [
     "name": "Healed",
     "year": "2018",
     "venue": "Helen Wayne Rauh Studio Theater, 2018",
-    "blurb": "Set to a relentless metronome, this piece explores the journey of someone struggling to escape the judgements and negativity that society places on us. Utilizing soft amber sides and moving to a lurid deep orange, the lighting showed the emotional weight that society creates.",
+    "blurb": "Set to a relentless metronome, this piece explores the journey of someone struggling to escape the judgement and emotional weight that society creates.",
     "position": "Lighting Designer",
     "description": "Choreographed by Ramsey Pack<br />Lighting Design: <b>Sam Molitoriss</b><br />Photos courtesy of <a href=\"https://www.lbsphoto.com\" target=\"_blank\">Louis Stein</a>",
     "column": "dance",
