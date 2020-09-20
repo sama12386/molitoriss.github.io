@@ -1,5 +1,4 @@
 html, body {
-  image-rendering: -webkit-optimize-contrast;
   font-size: 95%;
   overflow-y: hidden;
 }
