@@ -64,7 +64,7 @@ html, body {
 }
 
 .sublist {
-  width: calc(100% / 3);
+  width: calc(100% / 5);
   display: inline-block;
   vertical-align: top;
   text-align: center;
