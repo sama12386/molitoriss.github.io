@@ -226,6 +226,10 @@ header h2 {
   text-decoration: none;
 }
 
+#resume-link{
+  text-decoration: underline !important;
+}
+
 #title-block a, #modal a{
   color: lightgray;
 }
@@ -443,7 +447,7 @@ nav ul {
 
 nav li {
     float: left;
-    width: calc(100% / 4);
+    width: calc(100% / 2);
 }
 
 .small-nav li {
