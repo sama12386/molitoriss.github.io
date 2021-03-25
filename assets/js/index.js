@@ -67,7 +67,7 @@ var events = [
     "venue": "Wiegand Gymnasium, 2019",
     "blurb": "One of the largest fashion shows in Pittsburgh, Lunar Gala is a collection of student-designed and produced clothing lines. Interspersed with contemporary dances, this year's design featured a wishbone-shaped runway, bringing the models farther out into the audience.",
     "position": "Production Designer",
-    "description": "Carnegie Mellon University - Wiegand Gymnasium<br />Produced by CMU Lunar Gala<br />Production Design: <br /><b>Sam Molitoriss</b><br />Sound Design: Rachel Kolb<br />Motion Coordinator: Sophie Chen<br />Photos courtesy of CMU Lunar Gala",
+    "description": "Produced by Lunar Gala<br />Production Design: <br /><b>Sam Molitoriss</b><br />Sound Design: Rachel Kolb<br />Motion Coordinator: Sophie Chen<br />Photos courtesy of CMU Lunar Gala",
     "column": "live",
     "images": [
       "live/2019lunargala/lg2019-2.jpg",
@@ -103,7 +103,7 @@ var events = [
     "venue": "Wiegand Gymnasium, 2018",
     "blurb": "One of the largest fashion shows in Pittsburgh, Lunar Gala is a collection of student-designed and produced clothing lines. Interspersed with contemporary dances, this year's show was an exploration of human natural instinct, unbound by society.",
     "position": "Production Designer",
-    "description": "Carnegie Mellon University - Wiegand Gymnasium<br />Produced by CMU Lunar Gala<br />Production Design: <br /><b>Sam Molitoriss</b><br />Sound Design: William Lowe<br />Motion Coordinator: Sophie Chen<br />Photos courtesy of CMU Lunar Gala",
+    "description": "Produced by Lunar Gala<br />Production Design: <br /><b>Sam Molitoriss</b><br />Sound Design: William Lowe<br />Motion Coordinator: Sophie Chen<br />Photos courtesy of CMU Lunar Gala",
     "column": "live",
     "images": [
       "live/2018lunargala/lunar_gala_2018-1.jpg",
