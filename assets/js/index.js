@@ -2,7 +2,7 @@ var events = [
   {
     "name": "The Comedy of Errors",
     "year": "2019",
-    "venue": "Philip Chosky Theater, 2019",
+    "venue": "Philip Chosky Theater – 2019",
     "blurb": "",
     "description": "Written by William Shakespeare<br />Directed by Don Wadsworth<br />Scenic Design: Sasha Schwartz<br />Costume Design: Stefan Romero<br />Lighting Design: <b>Sam Molitoriss</b><br />Sound Design: Javier Galarza-Garcia<br />Photos courtesy of <a href=\"https://www.lbsphoto.com\" target=\"_blank\">Louis Stein</a>",
     "column": "theatre",
@@ -18,7 +18,7 @@ var events = [
   {
     "name": "Stumpy Legs Too Short",
     "year": "2018",
-    "venue": "Helen Wayne Rauh Studio Theater, 2018",
+    "venue": "Helen Wayne Rauh Studio Theater – 2018",
     "blurb": "A post-dramatic play about a young girl suffering from abuse. The lighting explored her multi-faceted psyche through striking color, shadow play, and sharp angles.",
     "position": "Lighting Designer",
     "description": "Written by Katja Brunner<br />Directed by Bronwyn Donohue<br />Scenic Design: Alex Kaplan<br />Costume Design: Stefan Romero<br />Lighting Design: <b>Sam Molitoriss</b><br />Media Design: Sophie Chen<br />Photos courtesy of <a href=\"https://www.lbsphoto.com\" target=\"_blank\">Louis Stein</a>",
@@ -34,7 +34,7 @@ var events = [
   {
     "name": "See What I Wanna See",
     "year": "2017",
-    "venue": "Helen Wayne Rauh Studio Theater, 2017",
+    "venue": "Helen Wayne Rauh Studio Theater – 2017",
     "blurb": "A musical about a murder investigation from four different perspectives. The lighting sets the tone of the interrogation room using harsh white beams, and then morphs into each of the four worlds of the night in question, supporting the themes of memory and truth.",
     "position": "Lighting Designer",
     "description": "Music, Lyrics and Book by Michael John LaChiusa<br />Directed by Catherine Moore<br />Lighting Design: <b>Sam Molitoriss</b>, Jasmine Lesane, Chazz Malott and Jacob Wesson",
@@ -49,7 +49,7 @@ var events = [
   {
     "name": "Expedition",
     "year": "2015",
-    "venue": "NYTW - 4th Street Theater, 2015",
+    "venue": "NYTW - 4th Street Theater – 2015",
     "blurb": "A play that parallels the contemporary lives of two young men in a long-distance relationship with that of the explorers Lewis and Clark. Utilizing difference in color temperature, intensity of fill light, and projected textures, the lighting emphasized the growing rift between the characters.",
     "position": "Lighting Designer",
     "description": "Written by Rae Binstock<br />Directed by Alex Tobey<br />Scenic Design: Jessica Baldinger<br />Costume Design: Olivia Hern<br />Lighting Design: <b>Sam Molitoriss</b><br />Sound Design: Rob Silverman-Ascher<br />Photos courtesy of Emma Young",
@@ -62,9 +62,23 @@ var events = [
     ]
   },
   {
+    "name": "New 42 - Let's Get This Show On The Street",
+    "year": "2021",
+    "venue": "42nd Street, NYC – 2021",
+    "blurb": "",
+    "position": "Lighting Programmer",
+    "description": "Produced by New 42<br />Lighting Design: Herrick Goldman<br />Lighting Programmer: <strong>Sam Molitoriss</strong><br />Production Electrician: Lois Catanzaro Gordon<br />Photo credit: Brian Bedder, Taylor Hill",
+    "column": "live",
+    "images": [
+      "live/2021new42/new42-1.jpg",
+      "live/2021new42/new42-2.jpg",
+      "live/2021new42/new42-3.jpg"
+    ]
+  },
+  {
     "name": "Lunar Gala 2019",
     "year": "2019",
-    "venue": "Wiegand Gymnasium, 2019",
+    "venue": "Wiegand Gymnasium – 2019",
     "blurb": "One of the largest fashion shows in Pittsburgh, Lunar Gala is a collection of student-designed and produced clothing lines. Interspersed with contemporary dances, this year's design featured a wishbone-shaped runway, bringing the models farther out into the audience.",
     "position": "Production Designer",
     "description": "Produced by Lunar Gala<br />Production Design: <br /><b>Sam Molitoriss</b><br />Sound Design: Rachel Kolb<br />Motion Coordinator: Sophie Chen<br />Photos courtesy of CMU Lunar Gala",
@@ -80,7 +94,7 @@ var events = [
   {
     "name": "Wale Concert",
     "year": "2018",
-    "venue": "Carnegie Mellon Main Quad, 2018",
+    "venue": "Carnegie Mellon Main Quad – 2018",
     "blurb": "",
     "position": "Production Designer",
     "description": "Carnegie Mellon University<br />Produced by CMU Activities Board<br />Production Design: <br /><b>Sam Molitoriss</b><br />Sound Design: Scott MacDonald<br />Video Content: Kenny Cohen<br />Photos courtesy of Noah Hull",
@@ -100,7 +114,7 @@ var events = [
   {
     "name": "Lunar Gala 2018",
     "year": "2018",
-    "venue": "Wiegand Gymnasium, 2018",
+    "venue": "Wiegand Gymnasium – 2018",
     "blurb": "One of the largest fashion shows in Pittsburgh, Lunar Gala is a collection of student-designed and produced clothing lines. Interspersed with contemporary dances, this year's show was an exploration of human natural instinct, unbound by society.",
     "position": "Production Designer",
     "description": "Produced by Lunar Gala<br />Production Design: <br /><b>Sam Molitoriss</b><br />Sound Design: William Lowe<br />Motion Coordinator: Sophie Chen<br />Photos courtesy of CMU Lunar Gala",
@@ -120,7 +134,7 @@ var events = [
   {
     "name": "Tepper Quadrangle Grand Opening",
     "year": "2018",
-    "venue": "David A. Tepper Quadrangle, 2018",
+    "venue": "David A. Tepper Quadrangle – 2018",
     "blurb": "Embracing the open construction of the first building of the David A. Tepper quadrangle, this event featured a spoken program on stage and a grand ribbon cutting in the center of the atrium. I needed lighting on stage for the IMAG and broadcast, but it needed to be subtle so the focus was on the space. During dinner, a soft and comfortable environment was established that allowed guests to appreciate the architecture of the auditorium.",
     "position": "Lighting Designer & Event Consultant",
     "description": "Produced by Carnegie Mellon University Advancement<br />Lighting Designer & Production Consultant: <b>Sam Molitoriss</b><br />Photos courtesy of CMU Marketing",
@@ -136,7 +150,7 @@ var events = [
   {
     "name": "GMC Sierra AT4 Press Reveal",
     "year": "2018",
-    "venue": "Pier 36, New York City, 2018",
+    "venue": "Pier 36, New York City – 2018",
     "blurb": "The press reveal of the 2019 GMC Sierra AT4. The event had a salon/cocktail area with current Sierra models, then moved into a presentation and reveal.",
     "position": "Associate Lighting Designer",
     "description": "Lighting Design: Jim Tetlow<br />Associate Lighting Design: <b>Sam Molitoriss</b>",
@@ -150,7 +164,7 @@ var events = [
   {
     "name": "Playground XV Opening Ceremony",
     "year": "2018",
-    "venue": "Purnell Center Lobby, 2017",
+    "venue": "Purnell Center Lobby – 2017",
     "blurb": "",
     "position": "Lighting Designer",
     "description": "Lighting Design: <b>Sam Molitoriss</b>, Kenny Cohen<br />Scenic Design: Henry Blazer<br />Sound Design: Scott MacDonald<br />Photos courtesy of <a href=\"https://www.lbsphoto.com\" target=\"_blank\">Louis Stein</a>",
@@ -167,7 +181,7 @@ var events = [
   {
     "name": "Tangential Antibodies",
     "year": "2019",
-    "venue": "Helen Wayne Rauh Studio Theater, 2019",
+    "venue": "Helen Wayne Rauh Studio Theater – 2019",
     "blurb": "",
     "position": "Lighting Designer",
     "description": "Choreographed by Emily Suarez<br />Lighting Design: <b>Sam Molitoriss</b><br />Photos courtesy of <a href=\"https://www.lbsphoto.com\" target=\"_blank\">Louis Stein</a>",
@@ -182,7 +196,7 @@ var events = [
   {
     "name": "Healed",
     "year": "2018",
-    "venue": "Helen Wayne Rauh Studio Theater, 2018",
+    "venue": "Helen Wayne Rauh Studio Theater – 2018",
     "blurb": "Set to a relentless metronome, this piece explores the journey of someone struggling to escape the judgement and emotional weight that society creates.",
     "position": "Lighting Designer",
     "description": "Choreographed by Ramsey Pack<br />Lighting Design: <b>Sam Molitoriss</b><br />Photos courtesy of <a href=\"https://www.lbsphoto.com\" target=\"_blank\">Louis Stein</a>",
@@ -197,7 +211,7 @@ var events = [
   {
     "name": "Woneyed Herds",
     "year": "2018",
-    "venue": "Helen Wayne Rauh Studio Theater, 2018",
+    "venue": "Helen Wayne Rauh Studio Theater – 2018",
     "blurb": "This dance expressed the ability of kindness and support to lift someone out of a sad spot in life. Going from a dark and bleak look, the lighting grows and eventually blossoms with the dancers, settling in a rich, resolved state.",
     "position": "Lighing Designer",
     "description": "Choreographed by Georgia Mendes<br />Lighting Design: <b>Sam Molitoriss</b><br />Photos courtesy of <a href=\"https://www.lbsphoto.com\" target=\"_blank\">Louis Stein</a>",
@@ -213,7 +227,7 @@ var events = [
   {
     "name": "A Streetcar Named Desire",
     "year": "2016",
-    "venue": "John Wells Video Studio, 2016",
+    "venue": "John Wells Video Studio – 2016",
     "blurb": "A mask movement piece based on the iconic play. Toning of the dancers in lurid palettes and careful development of silhouette reinforced the strong tension between characters and the physical and emotional pressure of the setting.",
     "position": "Lighting Designer",
     "description": "Adapted from the play by Tennessee Williams<br />Choreographed by Ralph Hall<br />Lighting Design: <b>Sam Molitoriss</b>, Jasmine Lesane<br />Photos courtesy of <a href=\"https://www.lbsphoto.com\" target=\"_blank\">Louis Stein</a>",
